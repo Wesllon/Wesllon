@@ -34,7 +34,7 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata371">
-           
+           />
       </
      id="defs4">
     <linearGradient
