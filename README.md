@@ -34,11 +34,6 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata371">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
       </
      id="defs4">
