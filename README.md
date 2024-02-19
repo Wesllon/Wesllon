@@ -40,37 +40,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     inkscape:window-height="2080"
-     inkscape:window-width="1976"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     guidetolerance="10.0"
-     gridtolerance="10.0"
-     objecttolerance="10.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     id="base"
-     inkscape:zoom="2.1461642"
-     inkscape:cx="91.558698"
-     inkscape:cy="47.9926"
-     inkscape:window-x="1092"
-     inkscape:window-y="72"
-     inkscape:current-layer="svg2"
-     width="210mm"
-     height="40mm"
-     units="mm"
-     inkscape:showpageshadow="2"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="pt"
-     showgrid="false"
-     inkscape:window-maximized="0" />
-  <defs
+      </
      id="defs4">
     <linearGradient
        id="linearGradient2795">
