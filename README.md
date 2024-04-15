@@ -6,7 +6,7 @@
    <a href="https://github.com/Wesllon/github-readme-stats"><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesllon&layout=compact&theme=blue-green&hide_border=true" />
 
 
-### Linguagem que estou aprendendo no momento:
+### Linguagens e Ferramentas que estou aprendendo no momento:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
