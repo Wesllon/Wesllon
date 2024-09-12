@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Wesllon">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wesllon&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-   <a href="https://github.com/Wesllon/github-readme-stats"><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesllon&layout=compact&theme=blue-green&hide_border=true" />
+   <a href="https://github.com/Wesllon/github-readme-stats"><img align="right" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesllon&layout=compact&theme=blue-green&hide_border=true"/>
+      
 
 
 ### Linguagens e Frameworks que estou aprendendo e usando no momento:
